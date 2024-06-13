@@ -1,0 +1,16 @@
+.half-width {
+    width:40%;
+    
+}
+.half-width:last-child {
+    margin-left:20px;
+}
+.full-width {
+    width:40%;
+}
+.header {
+    padding: 15px;
+     font-weight: 600; 
+     border-bottom: 1px solid #333;
+     margin-bottom: 25px;
+}

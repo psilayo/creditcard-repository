@@ -1,0 +1,102 @@
+{
+  "creditcards": [
+    {
+      "id": "2",
+      "name": "CRDB Bank plc",
+      "description": "CRDB Bank offers Customers with Various Options",
+      "bankName": "Bank of Tanzania",
+      "maxCredit": 3000,
+      "interestRate": "15",
+      "active": true,
+      "recommendedScore": "100-500",
+      "annualFee": 4,
+      "termsAndConditions": "applied",
+      "createdDate": "05-06-2024",
+      "updatedDate": "05-06-2024"
+    },
+    {
+      "id": "3",
+      "name": "TCB Bank PLC",
+      "description": "TCB Bank offers Customers with Various Options",
+      "bankName": "Bank of Tanzania",
+      "maxCredit": 5000,
+      "interestRate": 10,
+      "active": true,
+      "recommendedScore": "700-900",
+      "annualFee": "12",
+      "termsAndConditions": "APPLIED",
+      "createdDate": "05-06-2024",
+      "updatedDate": "05-06-2024"
+    },
+    {
+      "id": "4",
+      "name": "EXIM Bank",
+      "description": "Exim Bank offers Customers with Various Options",
+      "bankName": "Bank of Tanzania",
+      "maxCredit": 3000,
+      "interestRate": 10,
+      "active": true,
+      "recommendedScore": "700-900",
+      "annualFee": 4,
+      "termsandConditions": "Following are the Terms and Conditions",
+      "createdDate": "05-06-2024",
+      "updatedDate": "05-06-2024"
+    },
+    {
+      "id": "5",
+      "name": "NBC Bank",
+      "description": "NBC Bank offers Customers with Various Options",
+      "bankName": "Bank of Tanzania",
+      "maxCredit": 8000,
+      "interestRate": 10,
+      "active": true,
+      "recommendedScore": "700-900",
+      "annualFee": 4,
+      "termsandConditions": "Following are the Terms and Conditions",
+      "createdDate": "05-06-2024",
+      "updatedDate": "05-06-2024"
+    },
+    {
+      "id": "6",
+      "name": "Standard Chartered Bank",
+      "description": "Standard Chartered Bank offers Customers with Various Options",
+      "bankName": "Bank of Tanzania",
+      "maxCredit": 3000,
+      "interestRate": 10,
+      "active": true,
+      "recommendedScore": "700-900",
+      "annualFee": 4,
+      "termsandConditions": "Following are the Terms and Conditions",
+      "createdDate": "05-06-2024",
+      "updatedDate": "05-06-2024"
+    },
+    {
+      "id": "7",
+      "name": "UBA Bank",
+      "description": "UBA Bank offers Customers with Various Options",
+      "bankName": "Bank of Tanzania",
+      "maxCredit": 10000,
+      "interestRate": 10,
+      "active": true,
+      "recommendedScore": "700-900",
+      "annualFee": 4,
+      "termsandConditions": "Following are the Terms and Conditions",
+      "createdDate": "05-06-2024",
+      "updatedDate": "05-06-2024"
+    },
+    {
+      "id": "8",
+      "name": "Amana Bank",
+      "description": "Amana Bank offers Customers with Various Options",
+      "bankName": "Bank of Tanzania",
+      "maxCredit": 3000,
+      "interestRate": 10,
+      "active": true,
+      "recommendedScore": "700-900",
+      "annualFee": 4,
+      "termsandConditions": "Following are the Terms and Conditions",
+      "createdDate": "05-06-2024",
+      "updatedDate": "05-06-2024"
+    }
+  ]
+}

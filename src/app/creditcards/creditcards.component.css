@@ -1,0 +1,29 @@
+
+.count-card {
+    width: 24%;
+    margin: 5px;
+    padding: 20px;
+}
+.bg-success {
+    background-color: lightgreen;
+}
+.bg-warning {
+    background-color: lightcoral;
+}
+.bg-info {
+    background-color: lightblue;
+}
+.bg-primary {
+    background-color: lightyellow;
+}
+.mat-header-cell {
+    font-weight: 600;
+}
+
+.mat-card-header {
+    margin: 15px;
+}
+.mat-card{
+  
+    margin: 9px;
+}

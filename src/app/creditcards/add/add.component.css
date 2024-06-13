@@ -1,0 +1,37 @@
+/* .example-full-width {
+    width:75%;
+} */
+.error {
+    color:rgb(255, 0, 0);
+    padding:5px;
+}
+.half-width {
+    width:40%;
+}
+.half-width:last-child {
+    margin-left:20px;
+}
+.full-width {
+    width:40%;
+}
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+   
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  
+  .matInput {
+    margin-right: 10px; /* Adjust the margin as needed to separate the text fields */
+  }
+  .header {
+    padding: 15px;
+     font-weight: 600; 
+     border-bottom: 1px solid #333;
+     margin-bottom: 25px;
+}

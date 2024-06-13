@@ -1,0 +1,23 @@
+.header-spacer {
+    flex: 1 1 auto;
+  }
+ .header-toolbar {
+    background-color: #090a09;
+    color: #fff;
+    padding: 8px;
+
+    .app-title {
+        padding-left: 20px;
+    }
+
+ } 
+ .content-container {
+    height: 100%;
+    border: 1px solid antiquewhite ;
+    min-height: 100vh;
+ }
+.sidebar {
+  background-color: rgb(235, 241, 246);
+  height: 100%;
+  width: 250px;
+}
